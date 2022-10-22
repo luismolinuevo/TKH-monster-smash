@@ -91,8 +91,10 @@ function playGame() {
   if(monsterHealth <= 0) {
     alert(`${monsterName} won the game`)
   }
-
 }
 
 //call playGame to start game
 playGame()
+
+
+
